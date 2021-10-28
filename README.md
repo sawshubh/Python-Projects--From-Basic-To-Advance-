@@ -1,2 +1,2 @@
 # Python-Projects--From-Basic-To-Advance-
-Rock Paper Scissor Game in Python
+game1.py: Rock Paper Scissor Game in Python
