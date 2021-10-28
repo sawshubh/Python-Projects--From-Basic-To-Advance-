@@ -1,4 +1,4 @@
-    import random
+import random
     
 def logic():
     comp_score = 0
